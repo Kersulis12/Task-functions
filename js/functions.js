@@ -57,7 +57,7 @@ function secondTagNumtext(textSomething, numb) {
    //    console.log(num);
    // }
 }
-secondTagNumtext("My text", numb);
+secondTagNumtext("My text", numb);//  ??????????
 
 // console.log(secondTagNumtext("sometext", 3));
 
